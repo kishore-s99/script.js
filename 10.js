@@ -14,3 +14,16 @@ for (let i = 0; i < text.length; i++) {
 }
 
 console.log("Encrypted Message: " + result);
+
+
+Sample runs:
+1. Input: HELLO
+   Output: Encrypted message = KHOOR
+
+2. Input: abc
+   Output: Encrypted message = def
+
+3. Input: Java Script
+   Output: Encrypted message = Mdyd Vfulsw
+
+
